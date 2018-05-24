@@ -16,9 +16,11 @@
     "handlebars": "^4.0.8",
     "mz": "^2.6.0",
     "netlify-cms": "^0.4.0",
+    "node-static": "^0.7.10",
     "react": "^15.5.4",
     "recursive-copy": "^2.0.6",
     "reveal-md": "^0.3.0",
+    "socket.io": "^2.1.0",
     "styled-components": "^1.4.6"
   },
   "devDependencies": {
