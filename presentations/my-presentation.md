@@ -13,3 +13,9 @@ second slide
 > with a quote
 
 Note: more speaker notes
+
+<!--s-->
+
+asdfasdfas
+
+Note: dfafdsf
